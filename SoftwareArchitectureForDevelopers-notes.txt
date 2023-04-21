@@ -394,7 +394,7 @@ Part 2 - The software architecture role
                 Most of the best software architects I know have a software development background, but for
                 some reason many organisations don’t see this as a part of the software architecture role.
 
-                Many software architects are master builders, so it makes sense to keep those skills up to
+!!!             Many software architects are master builders, so it makes sense to keep those skills up to
                 date. In addition, coding provides a way for the architect(s) to share the software development
                 experience with the rest of the team, which in turn helps them better understand how the
                 architecture is viewed from a development perspective.
