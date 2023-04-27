@@ -1149,7 +1149,7 @@ Part 3 - Designing software
 
             • Use of the HTTP session: If you’re building a website, you may or may not want to
                 use the HTTP session for storing temporary information between requests. This can often
-                depend on a number of things including what your scaling strategy is, where sessionbacked objects are
+                depend on a number of things including what your scaling strategy is, where session backed objects are
                 actually stored, what happens in the event of a server failure, whether
                 you’re using sticky sessions, the overhead of session replication, etc. Again, everybody on
                 the development team should understand the desired approach and stick to it.
@@ -2045,7 +2045,7 @@ Part 4 - Visualising software
             and simply annotate it with a note that says something like “this is a utility component that is
             used by all other components”.
 
-            Question: “I like the C4 approach but it only focusses on one software system at a time. How
+            Question: “I like the C4 approach but it only focuses on one software system at a time. How
             can we show more than one software system?”
             Answer: In the real-world, software systems never live in isolation and it’s often useful to
             understand how all of the various software systems fit together within the bounds of an
